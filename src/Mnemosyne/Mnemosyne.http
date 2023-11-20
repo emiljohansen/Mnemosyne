@@ -1,0 +1,6 @@
+@Mnemosyne_HostAddress = http://localhost:5074
+
+GET {{Mnemosyne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
